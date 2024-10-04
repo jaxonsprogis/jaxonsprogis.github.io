@@ -163,7 +163,6 @@ html {
 	text-align: center;
 	justify-content: space-between;
 	padding: 3px;
-	background-color: #f8f8f8be;
 
 	border-radius: 100px;
 	/* box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); */
@@ -181,9 +180,11 @@ html {
       .about-text {
 	font-family: "Tahoma";
 	margin-top: 2%;
-
+	background-color: #f8f8f8c1;
 	flex: 1;
+	padding: 5px;
 	margin-left: 20px;
+	border-radius: 30px;
 	font-weight: bold;
       }
       
