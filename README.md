@@ -1,4 +1,3 @@
 Jaxon Sprogis' Personal Website
-This is a personal website built using the Hack4Impact Starter Pack!
+This is a personal website for Jaxon Sprogis by Jaxon Sprogis!
 [[Visit it Here!](https://jaxonsprogis.github.io)]
-I am excited to keep adding to it!
