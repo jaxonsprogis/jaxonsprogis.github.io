@@ -292,7 +292,7 @@ html {
 	      }
 
 	.section {
-		background:rgba(255, 255, 255, 0.719);
+		background:rgba(255, 255, 255, .85);
 		font-family: 'Tahoma';
 		font-weight: bold;
 		margin-bottom: 1%;
