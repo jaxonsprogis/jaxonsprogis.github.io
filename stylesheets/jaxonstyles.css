@@ -311,6 +311,8 @@ html {
 	    }
 	    .project-link {
 		display: inline-block;
+		font-family: "Tahoma";
+		font-weight: bold;
 		margin-top: 5px;
 		padding: 10px 15px;
 		background: #333;
